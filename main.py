@@ -4,4 +4,4 @@ current_datetime = datetime.now()
 print('Текушая дата и время: ', end = "")
 print(current_datetime)
 
-print('Nothing to report')
+print('Nothing to report, Master')
